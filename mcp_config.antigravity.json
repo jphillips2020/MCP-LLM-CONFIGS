@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "camoufox": {
+      "serverUrl": "http://172.31.253.154:8000/mcp"
+    }
+  }
+}
